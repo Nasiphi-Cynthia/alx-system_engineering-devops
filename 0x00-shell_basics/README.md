@@ -1,1 +1,1 @@
-script to print current pathname
+display contents in long format
